@@ -1,0 +1,1 @@
+samp.d: ../samp.cpp
